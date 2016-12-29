@@ -1,6 +1,6 @@
 # ニコ生アラート（小型）
 ニコ生アラート小型CLIクライエントです。
-今はUNIXやLibreSSL目的で作られましたがOpenSSLやWindowsも対応予定です。
+今はUNIXやLibreSSL目的で作られましたがWindowsやOpenSSLも対応予定です。
 
 試してみたいならlibtlsをインストールしてmakeでコンパイルしてください。
 そしたらconfigファイルにログイン情報を入れてnicoで起動させてください。
